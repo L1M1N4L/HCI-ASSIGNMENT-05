@@ -527,6 +527,7 @@ video {
 
 .w-10 {
   width: 2.5rem;
+  border-radius: 5px;
 }
 
 .w-4 {
@@ -651,7 +652,7 @@ video {
 }
 
 .from-indigo-200 {
-  --tw-gradient-from: #c7d2fe;
+  --tw-gradient-from: #f8f8f8;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(199 210 254 / 0));
 }
 
